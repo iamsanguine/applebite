@@ -1,2 +1,3 @@
 FROM php:7.2-apache
-COPY /tmp/eduproject/website/ /var/www/html/
+Maintainer "Himanshu K Singh"
+ADD website /var/www/html
