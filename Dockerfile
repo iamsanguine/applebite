@@ -1,5 +1,5 @@
-FROM php:7.2-apache
-Maintainer "Himanshu K Singh"
+FROM devopsedu/webapp
+MAINTAINER "Himanshu"
 ADD website /var/www/html
 
-EXPOSE 9222
+CMD apachectl -D FOREGROUND
