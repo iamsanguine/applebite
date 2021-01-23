@@ -1,0 +1,5 @@
+172.31.24.32 ip-172-31-24-32.us-west-2.compute.internal
+172.31.24.62 ip-172-31-24-62.us-west-2.compute.internal
+
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost6 localhost6.localdomain6
